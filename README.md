@@ -12,7 +12,11 @@ Here're some of the project's best features:
 *   ETL: data transformation and cleaning.
 *   Dashboard: shows the most important visualizations that provide information for analysis and conclusions.
 
-  
+<h2>🕵️‍♂️ Analysis</h2>
+
+- In the last three years, the number of accidents was lower than the general average.
+
+<img src="https://raw.githubusercontent.com/JuanC105/PI_DA_Traffic_Accidents/master/assets/Year.png" alt="project-screenshot" width="400" height="400/">
   
 <h2>💻 Built with</h2>
 
