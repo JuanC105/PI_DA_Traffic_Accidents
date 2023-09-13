@@ -16,7 +16,35 @@ Here're some of the project's best features:
 
 - In the last three years, the number of accidents was lower than the general average.
 
-<img src="https://raw.githubusercontent.com/JuanC105/PI_DA_Traffic_Accidents/master/assets/Year.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://raw.githubusercontent.com/JuanC105/PI_DA_Traffic_Accidents/master/assets/Year.png" alt="project-screenshot" width="300" height="300/">
+
+- The month with the most accidents is December, and the time with the highest frequency of accidents is 7 am.
+
+<img src="https://raw.githubusercontent.com/JuanC105/PI_DA_Traffic_Accidents/master/assets/Month and Hour.png" alt="project-screenshot" width="300" height="300/">
+
+- Men have more accidents than women.
+
+<img src="https://raw.githubusercontent.com/JuanC105/PI_DA_Traffic_Accidents/master/assets/Gender.png" alt="project-screenshot" width="300" height="300/">
+
+- Young adults have more accidents than other age groups.
+
+<img src="https://raw.githubusercontent.com/JuanC105/PI_DA_Traffic_Accidents/master/assets/Age.png" alt="project-screenshot" width="300" height="300/">
+  
+- Of the total number of accidents per year, motorcycles have the highest number of fatal events.
+
+<img src="https://raw.githubusercontent.com/JuanC105/PI_DA_Traffic_Accidents/master/assets/Rol per year.png" alt="project-screenshot" width="300" height="300/"> 
+
+- The streets and avenues of Communes 1, 4 and 7 are where most traffic accidents occur.
+
+<img src="https://raw.githubusercontent.com/JuanC105/PI_DA_Traffic_Accidents/master/assets/Comuna.png" alt="project-screenshot" width="300" height="300/"> 
+
+- The homicide rate was reduced by more than 10% compared to the previous semester.
+
+<img src="https://raw.githubusercontent.com/JuanC105/PI_DA_Traffic_Accidents/master/assets/KPI1.png" alt="project-screenshot" width="300" height="300/"> 
+
+- Compared to the previous year, motorcycle accidents increased by 80%.
+
+<img src="https://raw.githubusercontent.com/JuanC105/PI_DA_Traffic_Accidents/master/assets/KPI2.png" alt="project-screenshot" width="300" height="300/"> 
   
 <h2>💻 Built with</h2>
 
