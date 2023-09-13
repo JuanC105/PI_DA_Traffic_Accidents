@@ -45,7 +45,15 @@ Here're some of the project's best features:
 - Compared to the previous year, motorcycle accidents increased by 80%.
 
 <img src="https://raw.githubusercontent.com/JuanC105/PI_DA_Traffic_Accidents/master/assets/KPI2.png" alt="project-screenshot" width="300" height="300/"> 
+
+<h2>✍️ Conclusions</h2>
+
+- The main focus should be on December traffic and in the morning hours.
   
+- A specific group to consider in road safety policies is young adult male motorcycle riders.
+
+- Communes 1, 4, and 7 are the geographical areas where certain road prevention strategies should be focused due to the frequency of accidents.
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
